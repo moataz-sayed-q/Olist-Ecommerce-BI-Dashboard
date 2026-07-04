@@ -1,3 +1,6 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Measures-blue)
+![Power Query](https://img.shields.io/badge/Power%20Query-ETL-success)
 # 🛒 Olist E-Commerce Sales Analysis Dashboard
 
 A complete Business Intelligence project built using **Power BI** to analyze sales performance, product performance, and seller insights using the Brazilian Olist E-Commerce dataset.
