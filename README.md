@@ -196,8 +196,8 @@ Through this project, I learned how to:
 
 Computer Science Student | Aspiring Data Analyst & AI Engineer
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/moataz-sayed-q/)
-- 💻 GitHub: (https://github.com/moataz-sayed-q)
+- 💼 LinkedIn: https://www.linkedin.com/in/moataz-sayed-q/
+- 💻 GitHub: https://github.com/moataz-sayed-q
 - 📧 Email: motazsayed31@gmail.com
 
 ---
